@@ -1,5 +1,5 @@
-# Mindustry Java Mod Template
-A Java Mindustry mod template that works on Android and PC. The Kotlin version of this mod can be seen [here](https://github.com/Anuken/MindustryKotlinModTemplate).
+# wind3+
+No description provided.
 
 ## Building for Desktop Testing
 

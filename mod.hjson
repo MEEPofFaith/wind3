@@ -1,23 +1,26 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "wind3+"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "omega-wind3"
 
 #your name
-author: "You"
+author: "MEEP (real)"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "wind3.Wind3"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+# description: 
 
 #the mod version
-version: 1.0
+version: Wind3
 
 #the minimum game build required to run this mod
-minGameVersion: 140
+minGameVersion: 141
 
 #this is a java mod
 java: true
+
+#doesn't have content; client-sided
+hidden: true
